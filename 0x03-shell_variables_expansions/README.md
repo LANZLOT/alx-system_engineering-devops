@@ -1,1 +1,1 @@
-Learning Shell, init files, variables and expansions
+ALearning Shell, init files, variables and expansions
